@@ -1,3 +1,4 @@
+HR Analytics Dashboard-Tableau
 The HR Analytics Dashboard provides a comprehensive view of employee attrition, workforce demographics, and job satisfaction metrics. It is designed to help HR teams and business leaders identify attrition patterns, understand workforce composition, and make data-driven people decisions.
 
 The dashboard is fully interactive, allowing users to analyze attrition by department, gender, age group, education, and job role.
